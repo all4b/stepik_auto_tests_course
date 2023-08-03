@@ -1,1 +1,1 @@
-# stepik_auto_tests_course
+# repository for lessons on stepik.org
